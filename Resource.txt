@@ -1,0 +1,6 @@
+Git Beginner's Guide:
+https://blog.csdn.net/weixin_44966641/article/details/119791118
+
+A solution to the problem:
+https://cloud.tencent.com/developer/article/2480102
+Use port 443 for connection instead
